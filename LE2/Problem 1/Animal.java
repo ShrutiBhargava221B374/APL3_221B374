@@ -1,3 +1,3 @@
 abstract class Animal{
-    abstract void makeVoice();
+    public abstract void makeVoice();
 }

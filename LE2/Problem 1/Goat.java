@@ -1,6 +1,6 @@
 class Goat extends Animal {
     @Override
     public void makeVoice() {
-        System.out.println("Goat voice");
+        System.out.println("goat voice");
     }
 }
